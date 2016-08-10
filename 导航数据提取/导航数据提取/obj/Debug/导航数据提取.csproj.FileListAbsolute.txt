@@ -1,0 +1,9 @@
+E:\C#项目\导航数据提取\导航数据提取\bin\Debug\导航数据提取.exe.config
+E:\C#项目\导航数据提取\导航数据提取\bin\Debug\导航数据提取.exe
+E:\C#项目\导航数据提取\导航数据提取\bin\Debug\导航数据提取.pdb
+E:\C#项目\导航数据提取\导航数据提取\obj\Debug\导航数据提取.csprojResolveAssemblyReference.cache
+E:\C#项目\导航数据提取\导航数据提取\obj\Debug\导航数据提取.Form1.resources
+E:\C#项目\导航数据提取\导航数据提取\obj\Debug\导航数据提取.Properties.Resources.resources
+E:\C#项目\导航数据提取\导航数据提取\obj\Debug\导航数据提取.csproj.GenerateResource.Cache
+E:\C#项目\导航数据提取\导航数据提取\obj\Debug\导航数据提取.exe
+E:\C#项目\导航数据提取\导航数据提取\obj\Debug\导航数据提取.pdb
